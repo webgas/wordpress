@@ -25,8 +25,7 @@
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfifteen' ), 'WordPress' ); ?></a>
 		</div><!-- .site-info -->
 	</footer><!-- .site-footer -->
-        <div>Hi Sudipta</div>
-        <div>Hi GG</div>
+        <div>Hi Sudipta</div>        
 </div><!-- .site -->
 
 <?php wp_footer(); ?>
