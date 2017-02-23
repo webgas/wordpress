@@ -21,11 +21,12 @@
 				 * @since Twenty Fifteen 1.0
 				 */
 				do_action( 'twentyfifteen_credits' );
+                                echo "<p>Ghontu</p>";
 			?>
+                      <p>Hi GG</p>
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfifteen' ), 'WordPress' ); ?></a>
 		</div><!-- .site-info -->
-	</footer><!-- .site-footer -->
-        <div>Hi Sudipta</div>        
+               </footer><!-- .site-footer -->
 </div><!-- .site -->
 
 <?php wp_footer(); ?>
