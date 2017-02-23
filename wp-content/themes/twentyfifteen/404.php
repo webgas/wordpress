@@ -19,7 +19,7 @@ get_header(); ?>
 
 				<div class="page-content">
 					<p><?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentyfifteen' ); ?></p>
-                                        <?php echo "<h3>Hi Ghontu</h3>"; ?>
+                                        <?php echo "<h3>Hi Ghontu & Montu</h3>"; ?>
 					<?php get_search_form(); ?>
 				</div><!-- .page-content -->
 			</section><!-- .error-404 -->
